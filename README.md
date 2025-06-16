@@ -1,5 +1,7 @@
 ## Fillout Assessment
 
+The deployed version can be found here: https://john-martinez-729.github.io/fillout-assessment/
+
 Hi there! Thanks for taking the time to check out my implementation of the Fillout Assessment!
 
 While building this project, I used the opportunity to explore a few technologies that were new or unfamiliar to me. For instance, I've always leaned on Redux for state management in my professional work, so this was my first real dive into React Context. It was a great chance to get hands-on with it and see how it compares.
